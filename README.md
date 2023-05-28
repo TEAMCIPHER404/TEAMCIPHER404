@@ -28,6 +28,11 @@ I am a passionate hacker driven by a profound love for coding and an insatiable 
 ## 🏆 GitHub Trophies
 ![TC](https://github-profile-trophy.vercel.app/?username=TEAM-CIPHER-404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Statistics 
+## 🏆 GitHub Statistics
+
+##### 👀Visitors
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/TEAM-CIPHER-404/count.svg" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=TEAM-CIPHER-404&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-CIPHER-404&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
