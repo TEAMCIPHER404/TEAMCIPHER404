@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=70&center=true&vCenter=true&height=100&width=1000&lines=Welcome+To+TE4M-CIPH3R)](https://github.com/TEAM-CIPHER-404)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=70&center=true&vCenter=true&height=100&width=1000&lines=Welcome+To+TE4M-CIPH3R)](https://github.com/TEAMCIPHER404)
 
 <p align="center"><img src="./assets/images/line.svg">
 
 
 ## Who am i
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F70B10&size=27&lines=hey+there,+This+is+FURY;Founder+of+TE4M-CIPHER)](https://github.com/TEAM-CIPHER-404)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23F70B10&size=27&lines=hey+there,+This+is+FURY;Founder+of+TE4M-CIPHER)](https://github.com/TEAMCIPHER404)
 
 I am a passionate hacker driven by a profound love for coding and an insatiable curiosity to explore the vast realms of technology. My relentless pursuit of knowledge pushes me to constantly challenge the boundaries of what is achievable. With my exceptional skills and unwavering determination, I am constantly seeking innovative solutions to intricate problems.
 
