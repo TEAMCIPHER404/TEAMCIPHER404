@@ -1,11 +1,11 @@
-[![Typing SVG](https://syberfusion.onrender.com/anim/typing-svg?color=00FFFF&size=70&center=true&vCenter=true&height=100&width=1000&lines=Welcome+To+TE4M-CIPH3R)](https://github.com/TEAMCIPHER404)
+[![Typing SVG](https://syberfusion.onrender.com/anim/typing-svg?color=00FFFF&size=70&width=1000&lines=Welcome+To+TE4M-CIPH3R)](https://github.com/TEAMCIPHER404)
 
 <p align="center"><img src="./assets/images/line.svg">
 
 
 ## Who am i
 
-[![Typing SVG](https://syberfusion.onrender.com/anim/typing-svg?color=%23F70B10&size=27&lines=hey+there,+This+is+FURY;Founder+of+TE4M-CIPHER)](https://github.com/TEAMCIPHER404)
+[![Typing SVG](https://syberfusion.onrender.com/anim/typing-svg?color=%23F70B10&size=30&lines=hey+there,+This+is+FURY;Founder+of+TE4M-CIPHER)](https://github.com/TEAMCIPHER404)
 
 
 
