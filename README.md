@@ -9,7 +9,12 @@
 
 
 
-I am a passionate hacker driven by a profound love for coding and an insatiable curiosity to explore the vast realms of technology. My relentless pursuit of knowledge pushes me to constantly challenge the boundaries of what is achievable. With my exceptional skills and unwavering determination, I am constantly seeking innovative solutions to intricate problems.
+[![Typing SVG](https://syberfusion.onrender.com/anim/typing-svg?size=40&multiline=true&wrap=true&width=1150&repeat=false&duration=1000&pause=100&color=00D3E9&lines=I+am+a+passionate+hacker+driven+by+a+profound+love+for+coding+and+an+insatiable+curiosity+to+explore+the+vast+realms+of+technology.+My+relentless+pursuit+of+knowledge+pushes+me+to+constantly+challenge+the+boundaries+of+what+is+achievable.+With+my+exceptional+skills+and+unwavering+determination,+I+am+constantly+seeking+innovative+solutions+to+intricate+problems.)](https://github.com/TEAMCIPHER404)
+
+
+
+
+
 
 <p align="center"><img src="./assets/images/line.svg">
 
