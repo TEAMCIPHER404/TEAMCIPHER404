@@ -42,8 +42,12 @@
 
 ##### 👀Visitors
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/TEAMCIPHER404/count.svg" />
+<img src="https://syberfusion.onrender.com/anim/visit-count/TEAMCIPHER404" />
 </p>
+
+
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=TEAMCIPHER404&show_icons=true&theme=radical"/>
 
